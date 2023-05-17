@@ -1,10 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a few mobile apps
-- 🌱 I’m currently learning Dart and Kotlin
-- 👯 I’m looking to collaborate on all kinds of projects related to mobile
-- 🤔 I’m looking for help with Flutter
-- 💬 Ask me about anything, but preferably programming and tech
-- ⚡ Fun fact: im a programmer and i hate coffee
+My name is Petar and I am a mobile developer with a strong background in a full stack web development as I have built and deployed production ready websites using Javascript (React, Angular) and Python. Frameworks & Languages I am currently using are Flutter and Kotlin. I am passionate about expanding my knowledge and learning new things relative to the technologies I use and creating intuitive and visually stunning applications. I have experience in all aspects of the mobile and website development lifecycle, from conceptualization to deployment and beyond. 
+
+You can check out my apps on Google Play Store:
+https://play.google.com/store/apps/developer?id=Petar+Otovic
 
 ### Languages and Tools:
 
