@@ -3,11 +3,3 @@ My name is Petar and I am a Full Stack Developer, I specialize in crafting web a
 
 You can check out my apps on Google Play Store:
 https://play.google.com/store/apps/developer?id=Petar+Otovic
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="images/javascript.png" style="padding-right:10px;" />]()
-[<img align="left" alt="Visual Studio Code" width="26px" src="images/javalogo.png" style="padding-right:10px;" />]()
-[<img align="left" alt="Visual Studio Code" width="26px" src="images/python.png" style="padding-right:10px;" />]()
-[<img align="left" alt="Visual Studio Code" width="26px" src="images/flutter.png" style="padding-right:10px;" />](https://github.com/petarotovic/class_schedule)
-[<img align="left" alt="Visual Studio Code" width="26px" src="images/dart.png" style="padding-right:10px;" />](https://github.com/petarotovic/class_schedule)
